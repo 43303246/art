@@ -1,4 +1,4 @@
-# 164-Group-Co.-Ltd
+# Artistry
 Сorporate Identity
 ## License
 Copyright (c) Logbook. All rights reserved.
