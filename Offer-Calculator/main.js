@@ -12,4 +12,5 @@ addScript('images/logotype.js');
 addScript('images/background.js');
 addScript('images/preloader.js');
 addScript('images/updateIcon.js');
+addScript('images/mvc.js');
 clearHTML('script');
